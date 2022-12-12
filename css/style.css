@@ -814,9 +814,9 @@ h3.my-profession {
         max-width: 100%;
     }
 
-    .home .home-img {
+    /* .home .home-img {
         display: none;
-    }
+    } */
 
     .service .service-item,
     .portfolio .portfolio-item,
