@@ -192,7 +192,7 @@ ul {
 }
 
 .aside .logo a span {
-    font-family: "Clicker Script", cursive;
+    font-family: "Poppins", cursive;
     font-size: 40px;
 }
 
@@ -320,7 +320,7 @@ h3.hello {
 }
 
 h3.hello span {
-    font-family: "Clicker Script", cursive;
+    font-family: "Poppins", cursive;
     font-size: 32px;
     font-weight: 700;
     color: var(--skin-color);
